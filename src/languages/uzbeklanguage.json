@@ -1,0 +1,91 @@
+{
+  "Navbar": {
+    "NavbarMenu": {
+      "about": "Biz haqimizda",
+      "services": "Xizmatlar",
+      "solutions": "Yechimlar",
+      "support": "Qo'llab-quvvatlash",
+      "faq": "FAQ",
+      "contact": "Aloqa"
+    }
+  },
+
+  "Footer": {
+    "FooterMenu": {
+      "about": "Biz haqimizda",
+      "services": "Xizmatlar",
+      "solutions": "Yechimlar",
+      "support": "Qo'llab-quvvatlash",
+      "faq": "FAQ",
+      "contact": "Aloqa",
+      "partners": "Hamkorlar",
+      "subscribe": "Obuna boʻling",
+      "join": "Yangilanishlar va eksklyuziv takliflarni olish uchun pochta ro'yxatimizga qo'shiling.",
+      "submit": "Yuborish",
+      "text": "Obuna boʻlish orqali siz Maxfiylik siyosatimizga rozilik bildirasiz va kompaniyamizdan yangilanishlarni olishga rozilik bildirasiz."
+    }
+  },
+
+  "Hero": {
+    "HeroContent": {
+      "title": "Yaxshi kelajak uchun texnologiya investitsiyalarini o'zgartirish",
+      "text": "IT-GO ga xush kelibsiz, u yerda biz oʻsish va muvaffaqiyatga erishish uchun texnologiya investitsiyalarini innovatsiya qilamiz. Bizning mutaxassislar jamoasi sizga biznesingizni oldinga siljitadigan ilg'or yechimlarni taqdim etishga bag'ishlangan.",
+      "button": "Batafsil ma'lumot"
+    }
+  },
+
+  "Anchor": {
+    "AnchorContent": {
+      "invest": "Texnologiya investitsiyalaringizni maksimal darajada oshiring",
+      "strategy": "Strategik rejalashtirish va tahlil qilish",
+      "integration": "Amalga oshirish va integratsiya",
+      "invest_text": "Texnologik investitsiyalaringizdan maksimal foyda olish uchun tasdiqlangan jarayonimizni kashf eting. Strategik rejalashtirishdan amalga oshirish va doimiy qo'llab-quvvatlashgacha, biz sizning texnologiyangiz biznes maqsadlaringizga mos kelishini va aniq natijalarni taqdim etishini ta'minlaymiz.",
+      "strategy_text": "Bizning mutaxassislarimiz sizning biznes maqsadlaringizni tushunish, mavjud texnologik infratuzilmangizni baholash va texnologik investitsiyalaringizni uzoq muddatli maqsadlaringizga moslashtiruvchi strategik rejani ishlab chiqish uchun siz bilan yaqindan hamkorlik qiladi.",
+      "integration_text": "Mavjud infratuzilmangizga yangi texnologiyalarni uzluksiz tatbiq etish va integratsiya qilish uchun bizda tajriba mavjud. Bizning maqsadimiz - buzilishlarni minimallashtirish va muammosiz o'tishni ta'minlash, shuning uchun siz investitsiyalaringizdan imkon qadar tezroq foyda olishni boshlashingiz mumkin."
+    }
+  },
+
+  "Innovate": {
+    "InnovateContent": {
+      "title": "Teng bo‘lmagan IT yechimlari va qo‘llab-quvvatlashidan foydalaning",
+      "text": "Mutaxassislar jamoasi IT-tizimlaringiz doimo muammosiz ishlashini ta'minlash uchun 24/7 qo'llab-quvvatlash va monitoringni ta'minlaydi. Bizning ilg'or texnologiyalarimiz va proaktiv yondashuvimiz bilan biz biznes ehtiyojlaringizga moslashtirilgan tengsiz IT yechimlarni taqdim etamiz.",
+      "proactive": "Proaktiv IT qo'llab-quvvatlash va monitoring",
+      "technology": "Eng ilg'or texnologiya yechimlari",
+      "tailored": "Biznesingiz uchun moslashtirilgan IT yechimlari",
+      "infoButton": "Batafsil ma'lumot"
+    }
+  },
+
+  "Technology": {
+    "title": "Texnologiyalar"
+  },
+
+  "Payment": {
+    "PaymentContent": {
+      "title": "Moslashuvchan Narxlar",
+      "text": "Ehtiyojlaringizga mos tarif rejasini tanlang",
+      "btn_text_month": "Oylik",
+      "btn_text_year": "Yillik",
+      "basic": "Asosiy reja",
+      "business": "Biznes reja",
+      "vip": "VIP reja",
+      "started": "Boshlash"
+    }
+  },
+
+  "MagicCards": {
+    "title": "O'z biznesingizni biz bilan o'zgartiring",
+    "text": "Bizning portfolio bilan tanishing va bizning kompaniya tomonidan qoyilmaqom tarzda bajarilgan proyektlarni ko'rishingiz mumkin",
+    "view_all": "Ko'proq"
+  },
+
+  "LastSection": {
+    "title": "Biz bilan o'zingizning shaxsiy IT olamingizni yarating",
+    "text": "IT GO kompaniyamizdagi barcha xodimlar siz uchun xizmat qiladi va sizga qoyilmaqom tarzda siz sevgan sohangizni birgalikda o'rgatadi. Bizning kompaniya Web sahifa ishlab chiqish bo'yicha ham yetakchi va biz sizga kompaniyamiz tomonidan 24/7 qo'llab quvvatlash, toza kod yozish va yana bir qancha qulayliklarni taqdim qilamiz. Umid qilamizki siz bizning oilamizga qo'shilishdan mamnun bo'lasiz. Hurmat bilan IT GO oilasi!"
+  },
+
+  "Forms": {
+    "select_placeholder": "tanlang",
+    "input_email_placeholder": "emailingizni kiriting..."
+  }
+}
