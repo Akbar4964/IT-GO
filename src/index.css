@@ -27,6 +27,7 @@ button {
 
 body {
   font-family: var(--font);
+  margin-right: 0;
 }
 
 :root {
